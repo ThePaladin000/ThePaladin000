@@ -1,11 +1,12 @@
-## Hello, my name is Josh and I am a Software Engineer
+## Hello, my name is Josh and I am a Fullstack Software Engineer
 
 ### Technologies
+- Vim
+- VS Code
+- Bash
 - Git
 - Semantic HTML
 - Responsive CSS
 - Javascript
 - Python
-
-### TODO:
-- Make this repository into a portfolio website and publish on github pages
+- Figma

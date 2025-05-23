@@ -10,3 +10,4 @@
 - Javascript
 - Python
 - Figma
+- MongooseDB

@@ -11,3 +11,5 @@
 - Python
 - Figma
 - MongooseDB
+
+Follow me on [X/Twitter](https://x.com/CodeWarrior0101)

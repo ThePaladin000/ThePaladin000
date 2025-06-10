@@ -1,14 +1,15 @@
 ## Hello, my name is Josh and I am a Fullstack Software Engineer
 
 ### Technologies
-- Vim
-- VS Code
+- Python
 - Bash
 - Git
 - Semantic HTML
 - Responsive CSS
 - Javascript
-- Python
+- Node
+- Webpack
+- React
 - Figma
 - MongooseDB
 
